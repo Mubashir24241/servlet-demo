@@ -18,5 +18,4 @@ public class Welcome extends HttpServlet {
 	
 	response.getWriter().println("<h1>welcome here mubashir</h1>");
 	}
-
 }
